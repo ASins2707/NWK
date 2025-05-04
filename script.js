@@ -32,7 +32,7 @@ const songsData = [
     {
         youtubeId: "3rbZA3egxaI", // From your link
         title: "NOAHR vE",
-        artist: "K.reger & priya arora| devender keri& monika shandu",
+        artist: "K.reger & priya arora| devinder keri & monika sandhu",
         channel: "INTEREST music ",
         year: "2025"
     },

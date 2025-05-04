@@ -38,10 +38,10 @@ const songsData = [
     },
     {
         youtubeId: "", // Example video ID
-        title: "PIstol",
+        title: "'PIstol' upcoming song",
         artist: "coming soon",
         channel: "coming soon",
-        year: "coming soon"
+        year: "2025"
     }
     // Add more songs as needed
 ];

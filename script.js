@@ -31,7 +31,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const songsData = [
     {
         youtubeId: "3rbZA3egxaI", // From your link
-        title: "NOAHR BE",
+        title: "NOAHR vE",
         artist: "K.reger & priya arora| devender keri& monika shandu",
         channel: "INTEREST music ",
         year: "2025"

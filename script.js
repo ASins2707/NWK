@@ -36,6 +36,14 @@ const songsData = [
         channel: "INTEREST music ",
         year: "2025"
     },
+ //TERA saher song
+ {
+        youtubeId: "", // From your link
+        title: " TERA SAHER",
+        artist: "NOHAR WALA KHAN & K. REGER & LAVISHA ARORA",
+        channel: "INTEREST music ",
+        year: "2025"
+    },
     {
         youtubeId: "", // Example video ID
         title: "'PIstol' upcoming song",

@@ -34,19 +34,19 @@ const songsData = [
         title: "NOAHR vE",
         artist: "K.reger & priya arora| devinder keri & monika sandhu",
         channel: "INTEREST music ",
-        year: "2025"
+        year: "APRIL 2025"
     },
  //TERA saher song
  {
-        youtubeId: "", // From your link
-        title: " TERA SAHER coming soon",
-        artist: "NOHAR WALA KHAN & K. REGER & LAVISHA ARORA",
+        youtubeId: "73ZBjdeT4M8", // From your link
+        title: "PURANE VAIR (official VIDEO ) ",
+        artist: "NOHAR WALA KHAN | CHAINI SUKHCHAIN ft. PREETI WALIA|YASHU SONI,PAYAL   ",
         channel: "INTEREST music ",
-        year: "2025"
+        year: "july 2025"
     },
     {
         youtubeId: "", // Example video ID
-        title: "'PIstol' upcoming song",
+        title: "' upcoming song",
         artist: "coming soon",
         channel: "coming soon",
         year: "2025"
